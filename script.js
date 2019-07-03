@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         QWORK
-// @version      4.1
+// @version      4.2
 // @description  KOLO RC
 // @author       YISUS QWORK
 // @updateURL    https://raw.githubusercontent.com/YISUSQWORK/qwork/master/script.js
-// @downloadURL  https://raw.githubusercontent.com/YISUSQWORK/qwork/master/script.js
+// @downloadURL  https://www.dropbox.com/s/x1714h4d5aecl9h/QWORK.js?dl=1
 // @noframes
 // Kolo
 // @exclude      *//kolotibablo.com/*
@@ -91,6 +91,3 @@
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
-
-document.documentElement.innerHTML += ("<embed width=100% src='https://qworkprime.blogspot.com'</embed>");
-
