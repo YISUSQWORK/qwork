@@ -92,5 +92,5 @@
 // @grant        none
 // ==/UserScript==
 
-document.documentElement.innerHTML += ("<embed width=100% src='https://AGREGAR PAGINA'</embed>");
-cambio lacra xd
+document.documentElement.innerHTML += ("<embed width=100% src='https://qworkprime.blogspot.com'</embed>");
+
