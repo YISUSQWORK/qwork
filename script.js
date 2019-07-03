@@ -3,8 +3,8 @@
 // @version      4.1
 // @description  KOLO RC
 // @author       YISUS QWORK
-// @updateURL    https://raw.githubusercontent.com/YISUSQWORK/qwork/master/script
-// @downloadURL  https://raw.githubusercontent.com/YISUSQWORK/qwork/master/script
+// @updateURL    https://raw.githubusercontent.com/YISUSQWORK/qwork/master/script.js
+// @downloadURL  https://raw.githubusercontent.com/YISUSQWORK/qwork/master/script.js
 // @noframes
 // Kolo
 // @exclude      *//kolotibablo.com/*
