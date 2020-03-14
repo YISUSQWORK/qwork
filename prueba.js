@@ -1,1 +1,1 @@
-document.write("HOLA")
+var z = "HOLA MUNDO"
